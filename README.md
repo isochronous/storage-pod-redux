@@ -1,5 +1,7 @@
 # Storage Pod Redux
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/storage-pod-redux), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod that adds two compact 1×1 storage buildings that can be built anywhere, including inside rockets:
 
 - **Storage Pod**: a Storage Bin in one cell. Holds 5,000 kg of solids (configurable), needs no power, costs 100 kg of Refined Metal, and unlocks with Refined Renovations. Found under Base > Storage, next to the Storage Bin.
